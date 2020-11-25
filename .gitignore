@@ -3,3 +3,6 @@ Icon?
 */node_modules/
 
 /redis-connect/back/.env
+
+*/*/dist/
+*/dist
