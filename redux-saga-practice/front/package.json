@@ -39,9 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "@types/axios": "^0.14.0",
-    "@types/redux-saga": "^0.10.5",
-    "@types/styled-components": "^5.1.4"
-  }
+  "devDependencies": {}
 }
