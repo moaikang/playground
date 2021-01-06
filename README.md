@@ -6,3 +6,4 @@
 ## 삽질 토픽
 
 - [Redis + Express 사용, Redis에 JSON 넣기](https://github.com/moaikang/playground/tree/master/redis-connect)
+- [Vanila JS로 DOM 조작하기](https://github.com/moaikang/playground/tree/master/dom-manipulate)
