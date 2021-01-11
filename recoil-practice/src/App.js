@@ -1,7 +1,14 @@
 import React from "react";
+import Counter from "./components/Counter";
+import RandomCat from "./components/RandomCat";
 
 function App() {
-  return <div>안녕</div>;
+  return (
+    <>
+      <Counter />
+      <RandomCat />
+    </>
+  );
 }
 
 export default App;

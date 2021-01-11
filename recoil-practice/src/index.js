@@ -2,10 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
+import { RecoilRoot } from "recoil";
 
 ReactDOM.render(
-  <React.StrictMode>
+  <RecoilRoot>
+    {/* provider 같은 느낌 */}
     <App />
-  </React.StrictMode>,
+  </RecoilRoot>,
   document.getElementById("root")
 );
